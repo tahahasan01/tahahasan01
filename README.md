@@ -9,9 +9,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tahahasan01&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/tahahasan01?logo=github&style=for-the-badge&color=0e75b6&labelColor=black" alt="followers" />
-  <a href="https://github.com/tahahasan01?tab=repositories&sort=stargazers">
-    <img alt="total stars" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&q=repo:&url=https://api.github.com/users/tahahasan01/repos?per_page=100" />
-  </a>
 </p>
 
 ---
@@ -84,41 +81,22 @@ I design and build practical AI solutions across **LLM systems, RAG pipelines, m
 
 ---
 
-## Tech Stack
+## Core Stack
 
 <div align="center">
 
-### Core
 <p>
   <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,java,sql" alt="core skills" />
 </p>
-
-### AI / ML
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,huggingface" alt="ai ml skills" />
 </p>
-
-### Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" alt="backend skills" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,nextjs,nodejs" alt="backend frontend" />
 </p>
-
-### Frontend & Product
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" alt="frontend skills" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,vercel" alt="data devops" />
 </p>
-
-### Data & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="databases" />
-</p>
-
-### DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,vercel,git,github" alt="devops tools" />
-</p>
-
-### LLM / Workflow Tools
 <p>
   <img src="https://img.shields.io/badge/LangChain-2D3748?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Chroma-2E74FF?style=for-the-badge" alt="Chroma" />
@@ -147,20 +125,15 @@ I design and build practical AI solutions across **LLM systems, RAG pipelines, m
 
 ---
 
-## GitHub Activity
+## Selected Metrics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tahahasan01&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tahahasan01&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" alt="trophies" />
+</div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tahahasan01&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahahasan01&theme=radical" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahahasan01&theme=radical&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="activity graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahahasan01&theme=react-dark&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+</div>
 
 ---
 
