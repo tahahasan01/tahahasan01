@@ -1,156 +1,257 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00D9FF&center=true&vCenter=true&width=1000&lines=Syed+Taha+Hasan;AI+Engineer+%7C+Machine+Learning+%7C+LLM+Systems;Building+production-ready+AI+products+and+data+platforms" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0F2027,100:2C5364&height=180&section=header&text=AI%20Engineer&fontSize=44&fontColor=fff&animation=fadeIn" alt="header" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Syed%20Taha%20Hasan&fontSize=54&fontColor=FFFFFF&fontAlignY=34&desc=AI%20Engineer%20%C2%B7%20LLM%20Systems%20%C2%B7%20Applied%20Machine%20Learning&descAlignY=56&descSize=17&animation=fadeIn" alt="banner" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tahahasan01&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/tahahasan01?logo=github&style=for-the-badge&color=0e75b6&labelColor=black" alt="followers" />
-  <img src="https://img.shields.io/github/stars/tahahasan01?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=ffb000&label=Stars" alt="stars" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=00D9FF&center=true&vCenter=true&width=820&lines=I+take+AI+from+prototype+to+production.;RAG+pipelines+%E2%80%A2+LLM+workflows+%E2%80%A2+ML+at+scale;2%2B+years+shipping+end-to-end+AI+products." alt="headline" />
 
----
+<br />
 
-## About Me
+<a href="https://linkedin.com/in/taha-hasan">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:tahahasan279@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<img src="https://img.shields.io/badge/Islamabad,_Pakistan-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Open_to_Opportunities-16A34A?style=for-the-badge&logo=briefcase&logoColor=white" alt="Availability" />
 
-I’m **Syed Taha Hasan**, an **AI Engineer with 2+ years of experience** based in **Islamabad, Pakistan**.
+<br /><br />
 
-I design and build practical AI solutions across **LLM systems, RAG pipelines, machine learning, and data products**. My work focuses on taking ideas from prototype to production with a strong emphasis on quality, scalability, and measurable impact.
+<img src="https://komarev.com/ghpvc/?username=tahahasan01&label=Profile%20views&color=0e75b6&style=flat-square" alt="views" />
+<img src="https://img.shields.io/github/followers/tahahasan01?logo=github&style=flat-square&color=0e75b6&labelColor=0d1117" alt="followers" />
+<img src="https://img.shields.io/github/stars/tahahasan01?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=ffb000&labelColor=0d1117&label=total%20stars" alt="stars" />
 
-- 🔭 Currently focused on **AI engineering, LLM workflows, and scalable ML systems**
-- 🧠 Building **production-ready AI products**, from data pipelines to intelligent interfaces
-- 🚀 Experienced in **machine learning, NLP, RAG, analytics, and automation**
-- 📫 Reach me at **tahahasan279@gmail.com**
-- 🌐 LinkedIn: [taha-hasan](https://linkedin.com/in/taha-hasan)
+</div>
 
 ---
 
-## Featured Projects
+## About
+
+I build AI systems that survive contact with real users — LLM applications, retrieval pipelines, ML models, and the data infrastructure underneath them.
+
+Most of my work lives in the gap between "the demo worked" and "it runs in production": evaluation harnesses, retrieval quality, latency budgets, cost per query, and failure modes nobody thinks about until launch week. I've shipped across legal tech, document intelligence, business intelligence, and health — plus data engineering work for energy and FMCG organisations.
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/tahahasan01/RepoIQ">RepoIQ</a></h3>
-      <p align="center">AI-powered repository analysis for security, code quality, and architecture insights.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/tahahasan01/RAGInsights">RAGInsights</a></h3>
-      <p align="center">RAG-based BI system for querying structured and unstructured data with natural language.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/tahahasan01/PakLaw_RAG">PakLaw_RAG</a></h3>
-      <p align="center">Legal AI assistant for Pakistani laws with citations and local LLM inference.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/tahahasan01/ResumeFlow">ResumeFlow</a></h3>
-      <p align="center">Full-stack resume parser with ATS scoring and document intelligence.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/tahahasan01/DocExtractor">DocExtractor</a></h3>
-      <p align="center">PDF parsing system for structured markdown, LaTeX, tables, and images.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/tahahasan01/AI_NutriFitPakistan">AI_NutriFitPakistan</a></h3>
-      <p align="center">AI platform for personalized diet planning, workouts, and progress tracking.</p>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top" align="center">
+<h4>LLM & RAG Systems</h4>
+<sub>Retrieval pipelines, citation-grounded answers, agentic workflows, local + hosted inference</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<h4>Applied Machine Learning</h4>
+<sub>Forecasting, NLP, computer vision, model evaluation and deployment</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<h4>Data & Platform</h4>
+<sub>ETL pipelines, analytics dashboards, APIs, containerised deployments</sub>
+</td>
+</tr>
 </table>
 
 ---
 
-## Core Stack
+## Featured Work
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-</p>
+<a href="https://github.com/tahahasan01/RepoIQ">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahahasan01&repo=RepoIQ&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="RepoIQ" />
+</a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-</p>
+**AI-powered repository analysis** that surfaces security risks, code quality issues, and architectural drift across a codebase.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-FF5722?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+`Python` `LLM` `Static Analysis` `FastAPI`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-2D3748?style=for-the-badge" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Chroma-2E74FF?style=for-the-badge" alt="Chroma" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" alt="Ollama" />
-  <img src="https://img.shields.io/badge/LlamaParse-6C63FF?style=for-the-badge" alt="LlamaParse" />
-  <img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge" alt="GSAP" />
-</p>
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/tahahasan01/RAGInsights">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahahasan01&repo=RAGInsights&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="RAGInsights" />
+</a>
+
+**Natural-language BI over mixed data.** Queries structured tables and unstructured documents through a single retrieval layer.
+
+`RAG` `LangChain` `SQL` `Vector DB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/tahahasan01/PakLaw_RAG">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahahasan01&repo=PakLaw_RAG&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="PakLaw_RAG" />
+</a>
+
+**Legal assistant for Pakistani law** with verifiable citations and fully local inference — no data leaves the machine.
+
+`Ollama` `Chroma` `RAG` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/tahahasan01/ResumeFlow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahahasan01&repo=ResumeFlow&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="ResumeFlow" />
+</a>
+
+**Full-stack resume parser** with ATS scoring and document intelligence, built for high-volume screening.
+
+`NLP` `React` `FastAPI` `Document AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/tahahasan01/DocExtractor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahahasan01&repo=DocExtractor&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="DocExtractor" />
+</a>
+
+**PDF-to-structure engine** preserving markdown, LaTeX, tables, and images — built for RAG-ready ingestion.
+
+`LlamaParse` `Python` `OCR` `Parsing`
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/tahahasan01/AI_NutriFitPakistan">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahahasan01&repo=AI_NutriFitPakistan&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="AI_NutriFitPakistan" />
+</a>
+
+**Personalised health platform** generating localised diet plans, workouts, and progress tracking for Pakistani users.
+
+`ML` `Next.js` `MongoDB` `LLM`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<table>
+<tr>
+<td valign="middle"><strong>Languages</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><strong>AI / ML</strong></td>
+<td>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><strong>LLM Tooling</strong></td>
+<td>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Chroma-2E74FF?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/LlamaIndex-6C63FF?style=flat-square&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><strong>Backend</strong></td>
+<td>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><strong>Frontend</strong></td>
+<td>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><strong>Data</strong></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><strong>Infra</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</td>
+</tr>
+</table>
 
 ---
 
 ## Experience
 
-- **AI Engineer** *(2+ years)*  
-  Designing and delivering AI solutions across LLMs, RAG, ML pipelines, and production workflows.
+<!-- TIP: replace the bracketed placeholders below with real numbers. Recruiters scan for them. -->
 
-- **Data Science Intern** @ **Multiconsult** *(Remote, Norway)*  
-  Built predictive models to improve solar energy forecasting and identify high-efficiency locations.
+**AI Engineer** · 2+ years
+> Design and deliver production AI systems — LLM applications, RAG pipelines, ML models, and the workflows that keep them reliable. Own projects end to end, from data ingestion through evaluation and deployment.
 
-- **Data Analysis Intern** @ **PepsiCo**  
-  Supported revenue forecasting and customer retention analysis using multi-regional sales data.
+**Data Science Intern** · Multiconsult — Remote, Norway
+> Built predictive models for solar energy forecasting and site-efficiency analysis, helping identify high-yield locations for deployment.
 
-- **Data Engineer Intern** @ **OGDCL**  
-  Developed SQL and React-based dashboards and optimized data workflows for better decision-making.
+**Data Analysis Intern** · PepsiCo
+> Supported revenue forecasting and customer retention analysis across multi-regional sales data.
 
----
-
-## Selected Metrics
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tahahasan01&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=2" alt="trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahahasan01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahahasan01&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" alt="top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahahasan01&theme=tokyo-night&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" alt="activity graph" />
-</div>
+**Data Engineer Intern** · OGDCL
+> Built SQL and React-based dashboards and optimised data workflows to shorten reporting cycles for decision-makers.
 
 ---
 
-## Let’s Connect
+## GitHub Activity
 
-<p align="center">
-  <a href="https://linkedin.com/in/taha-hasan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:tahahasan279@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<div align="center">
 
-<p align="center"><strong>Thanks for visiting my profile.</strong></p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tahahasan01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="stats" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahahasan01&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="languages" />
+
+<img width="91%" src="https://streak-stats.demolab.com?user=tahahasan01&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FFB000&currStreakLabel=00D9FF" alt="streak" />
+
+<img width="91%" src="https://github-readme-activity-graph.vercel.app/graph?username=tahahasan01&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="activity graph" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=tahahasan01&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+## Let's build something
+
+Open to AI engineering roles, consulting, and collaborations on LLM and ML systems.
+
+<a href="https://linkedin.com/in/taha-hasan">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:tahahasan279@gmail.com">
+  <img src="https://img.shields.io/badge/tahahasan279@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/tahahasan01">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="footer" />
+
+</div>
