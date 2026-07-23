@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Syed+Taha+Hasan;Data+Science+%7C+AI+Engineering+%7C+Machine+Learning;Building+practical+AI+products+and+data+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00D9FF&center=true&vCenter=true&width=1000&lines=Syed+Taha+Hasan;AI+Engineer+%7C+Machine+Learning+%7C+LLM+Systems;Building+production-ready+AI+products+and+data+platforms" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=fff&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AI%20Engineer&fontSize=44&fontColor=fff&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
@@ -18,15 +18,42 @@
 
 ## About Me
 
-I’m **Syed Taha Hasan**, a **BS Data Science** student at **FAST NUCES (2021–2025)** based in **Islamabad, Pakistan**.
+I’m **Syed Taha Hasan**, an **AI Engineer with 2+ years of experience** based in **Islamabad, Pakistan**.
 
-I build clean, practical, and data-driven products across **machine learning, AI systems, RAG applications, and analytics**. My focus is on shipping work that combines strong fundamentals with modern tooling.
+I design and build practical AI solutions across **LLM systems, RAG pipelines, machine learning, and data products**. My work focuses on taking ideas from prototype to production with a strong emphasis on quality, scalability, and measurable impact.
 
-- 🔭 Currently focused on **AI engineering, ML systems, and applied data science**
-- 🌱 Exploring **LLMs, RAG, automation, and production-grade AI workflows**
-- ⚡ Building projects that connect **data, models, and real-world use cases**
+- 🔭 Currently focused on **AI engineering, LLM workflows, and scalable ML systems**
+- 🧠 Building **production-ready AI products**, from data pipelines to intelligent interfaces
+- 🚀 Experienced in **machine learning, NLP, RAG, analytics, and automation**
 - 📫 Reach me at **tahahasan279@gmail.com**
 - 🌐 LinkedIn: [taha-hasan](https://linkedin.com/in/taha-hasan)
+
+---
+
+## What I Build
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">LLM & RAG Systems</h3>
+      <p align="center">Search, retrieval, evaluation, and knowledge-grounded assistants.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">AI Products</h3>
+      <p align="center">End-to-end applications that connect models, APIs, and user experiences.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">ML Pipelines</h3>
+      <p align="center">Training, inference, evaluation, and deployment workflows.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Data Platforms</h3>
+      <p align="center">Analytics, ETL, dashboards, and decision-support systems.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -36,7 +63,7 @@ I build clean, practical, and data-driven products across **machine learning, AI
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/tahahasan01/RepoIQ">RepoIQ</a></h3>
-      <p align="center">AI-powered repo analysis for security, code quality, and architecture insights.</p>
+      <p align="center">AI-powered repository analysis for security, code quality, and architecture insights.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/tahahasan01/RAGInsights">RAGInsights</a></h3>
@@ -95,7 +122,10 @@ I build clean, practical, and data-driven products across **machine learning, AI
 
 ---
 
-## Professional Experience
+## Experience
+
+- **AI Engineer** *(2+ years)*  
+  Designing and delivering AI solutions across LLMs, RAG, ML pipelines, and production workflows.
 
 - **Data Science Intern** @ **Multiconsult** *(Remote, Norway)*  
   Built predictive models to improve solar energy forecasting and identify high-efficiency locations.
