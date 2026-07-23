@@ -1,18 +1,16 @@
-# <div align="center">Hi, I'm Syed Taha Hasan</div>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Data+Science+%7C+AI+Engineering+%7C+Machine+Learning;Building+practical+products+with+data+and+LLMs;Turning+complex+problems+into+clean+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Syed+Taha+Hasan;Data+Science+%7C+AI+Engineering+%7C+Machine+Learning;Building+practical+AI+products+and+data+systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=42&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=fff&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tahahasan01&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="tahahasan01" />
+  <img src="https://komarev.com/ghpvc/?username=tahahasan01&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/tahahasan01?logo=github&style=for-the-badge&color=0e75b6&labelColor=black" alt="followers" />
   <a href="https://github.com/tahahasan01?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&q=repo:&url=https://api.github.com/users/tahahasan01/repos?per_page=100" />
+    <img alt="total stars" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&q=repo:&url=https://api.github.com/users/tahahasan01/repos?per_page=100" />
   </a>
 </p>
 
@@ -22,29 +20,46 @@
 
 I’m **Syed Taha Hasan**, a **BS Data Science** student at **FAST NUCES (2021–2025)** based in **Islamabad, Pakistan**.
 
-I enjoy building data-driven products across **machine learning, AI systems, RAG applications, and analytics dashboards**. My work focuses on turning complex ideas into practical, scalable solutions.
+I build clean, practical, and data-driven products across **machine learning, AI systems, RAG applications, and analytics**. My focus is on shipping work that combines strong fundamentals with modern tooling.
 
-- 🔭 Currently focused on: **AI engineering, ML systems, and applied data science**
-- 🌱 Exploring: **LLMs, RAG, automation, and production-grade AI workflows**
-- 📫 Reach me at: **tahahasan279@gmail.com**
+- 🔭 Currently focused on **AI engineering, ML systems, and applied data science**
+- 🌱 Exploring **LLMs, RAG, automation, and production-grade AI workflows**
+- ⚡ Building projects that connect **data, models, and real-world use cases**
+- 📫 Reach me at **tahahasan279@gmail.com**
 - 🌐 LinkedIn: [taha-hasan](https://linkedin.com/in/taha-hasan)
 
 ---
 
-## Featured Work
+## Featured Projects
 
-Here are a few projects that reflect my interests and experience:
-
-- **[RepoIQ](https://github.com/tahahasan01/RepoIQ)** — AI-powered repository analysis for security, code quality, and architecture insights
-- **[RAGInsights](https://github.com/tahahasan01/RAGInsights)** — RAG-based BI system for structured and unstructured data querying
-- **[PakLaw_RAG](https://github.com/tahahasan01/PakLaw_RAG)** — AI legal query assistant for Pakistani laws with citations
-- **[AI_NutriFitPakistan](https://github.com/tahahasan01/AI_NutriFitPakistan)** — Personalized diet and workout planning platform
-- **[ResumeFlow](https://github.com/tahahasan01/ResumeFlow)** — Full-stack resume parser with ATS scoring
-- **[DocExtractor](https://github.com/tahahasan01/DocExtractor)** — PDF parsing system for structured markdown, tables, and formulas
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/tahahasan01/RepoIQ">RepoIQ</a></h3>
+      <p align="center">AI-powered repo analysis for security, code quality, and architecture insights.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/tahahasan01/RAGInsights">RAGInsights</a></h3>
+      <p align="center">RAG-based BI system for querying structured and unstructured data with natural language.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/tahahasan01/PakLaw_RAG">PakLaw_RAG</a></h3>
+      <p align="center">Legal AI assistant for Pakistani laws with citations and local LLM inference.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/tahahasan01/ResumeFlow">ResumeFlow</a></h3>
+      <p align="center">Full-stack resume parser with ATS scoring and document intelligence.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Tech Stack
+
+<div align="center">
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -76,11 +91,13 @@ Here are a few projects that reflect my interests and experience:
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+</div>
+
 ---
 
-## Experience
+## Professional Experience
 
-- **Data Science Intern** @ **Multiconsult** (Remote, Norway)  
+- **Data Science Intern** @ **Multiconsult** *(Remote, Norway)*  
   Built predictive models to improve solar energy forecasting and identify high-efficiency locations.
 
 - **Data Analysis Intern** @ **PepsiCo**  
@@ -91,7 +108,7 @@ Here are a few projects that reflect my interests and experience:
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tahahasan01&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="trophies" />
@@ -110,7 +127,9 @@ Here are a few projects that reflect my interests and experience:
 
 ## Let’s Connect
 
-- 🌐 LinkedIn: [taha-hasan](https://linkedin.com/in/taha-hasan)
-- 📫 Email: **tahahasan279@gmail.com**
+<p align="center">
+  <a href="https://linkedin.com/in/taha-hasan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tahahasan279@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<p align="center"><strong>Thanks for visiting my profile!</strong></p>
+<p align="center"><strong>Thanks for visiting my profile.</strong></p>
