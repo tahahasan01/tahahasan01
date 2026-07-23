@@ -3,12 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AI%20Engineer&fontSize=44&fontColor=fff&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0F2027,100:2C5364&height=180&section=header&text=AI%20Engineer&fontSize=44&fontColor=fff&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tahahasan01&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/tahahasan01?logo=github&style=for-the-badge&color=0e75b6&labelColor=black" alt="followers" />
+  <img src="https://img.shields.io/github/stars/tahahasan01?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=ffb000&label=Stars" alt="stars" />
 </p>
 
 ---
@@ -128,11 +129,16 @@ I design and build practical AI solutions across **LLM systems, RAG pipelines, m
 ## Selected Metrics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tahahasan01&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tahahasan01&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2" alt="trophies" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahahasan01&theme=react-dark&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahahasan01&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tahahasan01&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
 </div>
 
 ---
