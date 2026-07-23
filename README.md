@@ -88,35 +88,44 @@ I design and build practical AI solutions across **LLM systems, RAG pipelines, m
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+### Core
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,java,sql" alt="core skills" />
+</p>
 
 ### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,huggingface" alt="ai ml skills" />
+</p>
 
-### Frameworks & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-2D3748?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-8FCB9B?style=for-the-badge&logo=nltk&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" alt="backend skills" />
+</p>
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### Frontend & Product
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" alt="frontend skills" />
+</p>
+
+### Data & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="databases" />
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,vercel,git,github" alt="devops tools" />
+</p>
+
+### LLM / Workflow Tools
+<p>
+  <img src="https://img.shields.io/badge/LangChain-2D3748?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Chroma-2E74FF?style=for-the-badge" alt="Chroma" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" alt="Ollama" />
+  <img src="https://img.shields.io/badge/LlamaParse-6C63FF?style=for-the-badge" alt="LlamaParse" />
+  <img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge" alt="GSAP" />
+</p>
 
 </div>
 
