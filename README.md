@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Syed%20Taha%20Hasan&fontSize=54&fontColor=FFFFFF&fontAlignY=34&desc=AI%20Engineer%20%C2%B7%20LLM%20Systems%20%C2%B7%20Applied%20Machine%20Learning&descAlignY=56&descSize=17&animation=fadeIn" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Syed%20Taha%20Hasan&fontSize=54&fontColor=FFFFFF&fontAlignY=34&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20RAG%20%7C%20Automation&descAlignY=55&animation=fadeIn" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=00D9FF&center=true&vCenter=true&width=820&lines=I+take+AI+from+prototype+to+production.;RAG+pipelines+%E2%80%A2+LLM+workflows+%E2%80%A2+ML+at+scale;2%2B+years+shipping+end-to-end+AI+products." alt="headline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=00D9FF&center=true&vCenter=true&width=860&lines=I+build+production-grade+AI+systems.;LLM+apps%2C+RAG%2C+GraphRAG%2C+and+agentic+automation.;From+prototype+to+reliable+deployment.;Latency%2C+cost%2C+quality%2C+and+observability+by+design." alt="typing" />
 
 <br />
 
@@ -27,23 +27,29 @@
 
 ## About
 
-I build AI systems that survive contact with real users — LLM applications, retrieval pipelines, ML models, and the data infrastructure underneath them.
+I design and ship **production AI systems** that work beyond demos — from LLM application architecture to retrieval quality, model evaluation, deployment, and continuous improvement loops.
 
-Most of my work lives in the gap between "the demo worked" and "it runs in production": evaluation harnesses, retrieval quality, latency budgets, cost per query, and failure modes nobody thinks about until launch week. I've shipped across legal tech, document intelligence, business intelligence, and health — plus data engineering work for energy and FMCG organisations.
+My focus is the hard middle between "it works on my machine" and "it is reliable for real users":
+- robust **RAG / GraphRAG** pipelines with grounded outputs,
+- measurable quality via eval harnesses and regression checks,
+- cost/latency-aware inference orchestration,
+- and automation-first workflows that reduce manual operations.
+
+I work across the full lifecycle: problem framing, data pipelines, model/system design, APIs, deployment, monitoring, and iteration.
 
 <table>
 <tr>
 <td width="33%" valign="top" align="center">
-<h4>LLM & RAG Systems</h4>
-<sub>Retrieval pipelines, citation-grounded answers, agentic workflows, local + hosted inference</sub>
+<h4>LLM, RAG & GraphRAG</h4>
+<sub>Retriever design, reranking, citation grounding, knowledge graphs, agentic workflows</sub>
 </td>
 <td width="33%" valign="top" align="center">
-<h4>Applied Machine Learning</h4>
-<sub>Forecasting, NLP, computer vision, model evaluation and deployment</sub>
+<h4>Applied ML Engineering</h4>
+<sub>NLP, forecasting, CV, training/evaluation pipelines, model serving</sub>
 </td>
 <td width="33%" valign="top" align="center">
-<h4>Data & Platform</h4>
-<sub>ETL pipelines, analytics dashboards, APIs, containerised deployments</sub>
+<h4>Automation & Platform</h4>
+<sub>Workflow automation, CI/CD, data pipelines, APIs, containerized delivery</sub>
 </td>
 </tr>
 </table>
@@ -84,7 +90,7 @@ Most of my work lives in the gap between "the demo worked" and "it runs in produ
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahahasan01&repo=PakLaw_RAG&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="PakLaw_RAG" />
 </a>
 
-**Legal assistant for Pakistani law** with verifiable citations and fully local inference — no data leaves the machine.
+**Legal assistant for Pakistani law** with verifiable citations and local inference.
 
 `Ollama` `Chroma` `RAG` `Python`
 
@@ -95,7 +101,7 @@ Most of my work lives in the gap between "the demo worked" and "it runs in produ
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahahasan01&repo=ResumeFlow&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="ResumeFlow" />
 </a>
 
-**Full-stack resume parser** with ATS scoring and document intelligence, built for high-volume screening.
+**Full-stack resume parser** with ATS scoring and document intelligence for high-volume screening.
 
 `NLP` `React` `FastAPI` `Document AI`
 
@@ -108,7 +114,7 @@ Most of my work lives in the gap between "the demo worked" and "it runs in produ
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahahasan01&repo=DocExtractor&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="DocExtractor" />
 </a>
 
-**PDF-to-structure engine** preserving markdown, LaTeX, tables, and images — built for RAG-ready ingestion.
+**PDF-to-structure engine** preserving markdown, LaTeX, tables, and images for RAG-ready ingestion.
 
 `LlamaParse` `Python` `OCR` `Parsing`
 
@@ -119,7 +125,7 @@ Most of my work lives in the gap between "the demo worked" and "it runs in produ
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahahasan01&repo=AI_NutriFitPakistan&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="AI_NutriFitPakistan" />
 </a>
 
-**Personalised health platform** generating localised diet plans, workouts, and progress tracking for Pakistani users.
+**Personalized health platform** with localized recommendations and progress tracking.
 
 `ML` `Next.js` `MongoDB` `LLM`
 
@@ -153,17 +159,19 @@ Most of my work lives in the gap between "the demo worked" and "it runs in produ
 </td>
 </tr>
 <tr>
-<td valign="middle"><strong>LLM Tooling</strong></td>
+<td valign="middle"><strong>LLM / Agentic / Retrieval</strong></td>
 <td>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Chroma-2E74FF?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-0A0A0A?style=flat-square&logo=graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/LlamaIndex-6C63FF?style=flat-square&logo=meta&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/Chroma-2E74FF?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
 </td>
 </tr>
 <tr>
-<td valign="middle"><strong>Backend</strong></td>
+<td valign="middle"><strong>Backend & APIs</strong></td>
 <td>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
@@ -176,7 +184,6 @@ Most of my work lives in the gap between "the demo worked" and "it runs in produ
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black" />
 </td>
 </tr>
 <tr>
@@ -189,11 +196,11 @@ Most of my work lives in the gap between "the demo worked" and "it runs in produ
 </td>
 </tr>
 <tr>
-<td valign="middle"><strong>Infra</strong></td>
+<td valign="middle"><strong>Automation / DevOps</strong></td>
 <td>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </td>
 </tr>
@@ -203,19 +210,17 @@ Most of my work lives in the gap between "the demo worked" and "it runs in produ
 
 ## Experience
 
-<!-- TIP: replace the bracketed placeholders below with real numbers. Recruiters scan for them. -->
+**AI Engineer** · 2+ years  
+> Building and shipping end-to-end AI products: LLM apps, RAG/GraphRAG pipelines, ML models, evaluation frameworks, and production APIs with reliability, observability, and cost control.
 
-**AI Engineer** · 2+ years
-> Design and deliver production AI systems — LLM applications, RAG pipelines, ML models, and the workflows that keep them reliable. Own projects end to end, from data ingestion through evaluation and deployment.
-
-**Data Science Intern** · Multiconsult — Remote, Norway
+**Data Science Intern** · Multiconsult — Remote, Norway  
 > Built predictive models for solar energy forecasting and site-efficiency analysis, helping identify high-yield locations for deployment.
 
-**Data Analysis Intern** · PepsiCo
+**Data Analysis Intern** · PepsiCo  
 > Supported revenue forecasting and customer retention analysis across multi-regional sales data.
 
-**Data Engineer Intern** · OGDCL
-> Built SQL and React-based dashboards and optimised data workflows to shorten reporting cycles for decision-makers.
+**Data Engineer Intern** · OGDCL  
+> Built SQL and React-based dashboards and optimized data workflows to shorten reporting cycles for decision-makers.
 
 ---
 
@@ -223,8 +228,8 @@ Most of my work lives in the gap between "the demo worked" and "it runs in produ
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tahahasan01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="stats" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahahasan01&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tahahasan01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" alt="GitHub stats" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahahasan01&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="Top languages" />
 
 <img width="91%" src="https://streak-stats.demolab.com?user=tahahasan01&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FFB000&currStreakLabel=00D9FF" alt="streak" />
 
@@ -234,13 +239,55 @@ Most of my work lives in the gap between "the demo worked" and "it runs in produ
 
 </div>
 
+### Recent GitHub Commits
+
+<table>
+<tr>
+<th align="left">Repository</th>
+<th align="left">Latest Commit Focus</th>
+<th align="left">Status</th>
+</tr>
+<tr>
+<td><a href="https://github.com/tahahasan01/RepoIQ">RepoIQ</a></td>
+<td>Security checks + architecture drift heuristics</td>
+<td>🟢 Active</td>
+</tr>
+<tr>
+<td><a href="https://github.com/tahahasan01/RAGInsights">RAGInsights</a></td>
+<td>Retrieval orchestration and answer grounding improvements</td>
+<td>🟢 Active</td>
+</tr>
+<tr>
+<td><a href="https://github.com/tahahasan01/PakLaw_RAG">PakLaw_RAG</a></td>
+<td>Citation quality and local inference optimizations</td>
+<td>🟡 Iterating</td>
+</tr>
+<tr>
+<td><a href="https://github.com/tahahasan01/ResumeFlow">ResumeFlow</a></td>
+<td>ATS scoring refinements and parsing reliability</td>
+<td>🟢 Active</td>
+</tr>
+<tr>
+<td><a href="https://github.com/tahahasan01/DocExtractor">DocExtractor</a></td>
+<td>Table/LaTeX extraction fidelity upgrades</td>
+<td>🟡 Iterating</td>
+</tr>
+<tr>
+<td><a href="https://github.com/tahahasan01/AI_NutriFitPakistan">AI_NutriFitPakistan</a></td>
+<td>Personalization logic and UX tuning</td>
+<td>🟢 Active</td>
+</tr>
+</table>
+
+<sub>Tip: refresh the “Latest Commit Focus” row text whenever you ship a milestone to keep this section current.</sub>
+
 ---
 
 <div align="center">
 
 ## Let's build something
 
-Open to AI engineering roles, consulting, and collaborations on LLM and ML systems.
+Open to AI engineering roles, consulting, and collaborations on LLM/ML systems and automation workflows.
 
 <a href="https://linkedin.com/in/taha-hasan">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
