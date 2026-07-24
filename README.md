@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Syed%20Taha%20Hasan&fontSize=54&fontColor=FFFFFF&fontAlignY=34&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20RAG%20%7C%20Automation&descAlignY=55&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Syed%20Taha%20Hasan&fontSize=54&fontColor=FFFFFF&fontAlignY=34&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20Data%20%26%20Automation&descSize=16&descAlignY=55" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=00D9FF&center=true&vCenter=true&width=860&lines=I+build+production-grade+AI+systems.;LLM+apps%2C+RAG%2C+GraphRAG%2C+and+agentic+automation.;From+prototype+to+reliable+deployment.;Latency%2C+cost%2C+quality%2C+and+observability+by+design." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=00D9FF&center=true&vCenter=true&width=860&lines=I+build+production-grade+AI+systems.;LLM+apps%2C+RAG+pipelines%2C+and+automation+at+scale.;Fast%2C+reliable%2C+and+business-aligned+AI+delivery." alt="typing" />
 
 <br />
 
@@ -62,9 +62,7 @@ I work across the full lifecycle: problem framing, data pipelines, model/system 
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/tahahasan01/RepoIQ">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahahasan01&repo=RepoIQ&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="RepoIQ" />
-</a>
+<a href="https://github.com/tahahasan01/RepoIQ"><strong>RepoIQ</strong></a>
 
 **AI-powered repository analysis** that surfaces security risks, code quality issues, and architectural drift across a codebase.
 
@@ -73,9 +71,7 @@ I work across the full lifecycle: problem framing, data pipelines, model/system 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/tahahasan01/RAGInsights">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahahasan01&repo=RAGInsights&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="RAGInsights" />
-</a>
+<a href="https://github.com/tahahasan01/RAGInsights"><strong>RAGInsights</strong></a>
 
 **Natural-language BI over mixed data.** Queries structured tables and unstructured documents through a single retrieval layer.
 
@@ -86,9 +82,7 @@ I work across the full lifecycle: problem framing, data pipelines, model/system 
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/tahahasan01/PakLaw_RAG">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahahasan01&repo=PakLaw_RAG&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="PakLaw_RAG" />
-</a>
+<a href="https://github.com/tahahasan01/PakLaw_RAG"><strong>PakLaw_RAG</strong></a>
 
 **Legal assistant for Pakistani law** with verifiable citations and local inference.
 
@@ -97,9 +91,7 @@ I work across the full lifecycle: problem framing, data pipelines, model/system 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/tahahasan01/ResumeFlow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahahasan01&repo=ResumeFlow&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="ResumeFlow" />
-</a>
+<a href="https://github.com/tahahasan01/ResumeFlow"><strong>ResumeFlow</strong></a>
 
 **Full-stack resume parser** with ATS scoring and document intelligence for high-volume screening.
 
@@ -110,9 +102,7 @@ I work across the full lifecycle: problem framing, data pipelines, model/system 
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/tahahasan01/DocExtractor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahahasan01&repo=DocExtractor&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="DocExtractor" />
-</a>
+<a href="https://github.com/tahahasan01/DocExtractor"><strong>DocExtractor</strong></a>
 
 **PDF-to-structure engine** preserving markdown, LaTeX, tables, and images for RAG-ready ingestion.
 
@@ -121,9 +111,7 @@ I work across the full lifecycle: problem framing, data pipelines, model/system 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/tahahasan01/AI_NutriFitPakistan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahahasan01&repo=AI_NutriFitPakistan&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="AI_NutriFitPakistan" />
-</a>
+<a href="https://github.com/tahahasan01/AI_NutriFitPakistan"><strong>AI_NutriFitPakistan</strong></a>
 
 **Personalized health platform** with localized recommendations and progress tracking.
 
@@ -228,12 +216,12 @@ I work across the full lifecycle: problem framing, data pipelines, model/system 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tahahasan01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=58A6FF" alt="GitHub stats" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahahasan01&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="Top languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tahahasan01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=E6EDF3" alt="stats" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahahasan01&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="top-langs" />
 
 <img width="91%" src="https://streak-stats.demolab.com?user=tahahasan01&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FFB000&currStreakLabel=00D9FF" alt="streak" />
 
-<img width="91%" src="https://github-readme-activity-graph.vercel.app/graph?username=tahahasan01&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="activity graph" />
+<img width="91%" src="https://github-readme-activity-graph.vercel.app/graph?username=tahahasan01&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="activity-graph" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=tahahasan01&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="trophies" />
 
