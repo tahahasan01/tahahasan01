@@ -40,4 +40,4 @@ while [ "$(date -d "$cur" +%Y%m%d)" -le "$(date -d "$END" +%Y%m%d)" ]; do
   active=$((active + 1))
   cur="$(date -d "$cur + 1 day" +%Y-%m-%d)"
 done
-echo "Created $total commits across $active active days ($START -> $END)"    i want you to update the dates recent to latest  and ncrase the commts 
+echo "Created $total commits across $active active days ($START -> $END)"   
