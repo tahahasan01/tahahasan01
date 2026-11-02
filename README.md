@@ -235,45 +235,47 @@ I work across the full lifecycle: problem framing, data pipelines, model/system 
 
 ### Recent GitHub Commits
 
+<!--START_SECTION:commits-->
 <table>
 <tr>
 <th align="left">Repository</th>
-<th align="left">Latest Commit Focus</th>
-<th align="left">Status</th>
+<th align="left">Latest Commit</th>
+<th align="left">Date</th>
 </tr>
 <tr>
 <td><a href="https://github.com/tahahasan01/RepoIQ">RepoIQ</a></td>
-<td>Security checks + architecture drift heuristics</td>
-<td>🟢 Active</td>
+<td><a href="https://github.com/tahahasan01/RepoIQ/commit/6889b0ddca66daab204888530391d0e0c4435b4f">fix(api): CORS wraps the rate limiter; only credential endpoints ge...</a></td>
+<td>2026-10-15</td>
 </tr>
 <tr>
-<td><a href="https://github.com/tahahasan01/RAGInsights">RAGInsights</a></td>
-<td>Retrieval orchestration and answer grounding improvements</td>
-<td>🟢 Active</td>
+<td><a href="https://github.com/tahahasan01/synccut">synccut</a></td>
+<td><a href="https://github.com/tahahasan01/synccut/commit/ca6df470ea6de9038aa9d955fb98c7082b95bfec">Skin options: hide bookmarks bar and profile photo, fewer extension...</a></td>
+<td>2026-10-13</td>
 </tr>
 <tr>
-<td><a href="https://github.com/tahahasan01/PakLaw_RAG">PakLaw_RAG</a></td>
-<td>Citation quality and local inference optimizations</td>
-<td>🟡 Iterating</td>
+<td><a href="https://github.com/tahahasan01/tdl-3d">tdl-3d</a></td>
+<td><a href="https://github.com/tahahasan01/tdl-3d/commit/30813b02d0258053af387579c21a3d4dc0925558">Add homepage narrative: the life of one small wardrobe, in seven sc...</a></td>
+<td>2026-07-24</td>
 </tr>
 <tr>
-<td><a href="https://github.com/tahahasan01/ResumeFlow">ResumeFlow</a></td>
-<td>ATS scoring refinements and parsing reliability</td>
-<td>🟢 Active</td>
+<td><a href="https://github.com/tahahasan01/Saas-suite">Saas-suite</a></td>
+<td><a href="https://github.com/tahahasan01/Saas-suite/commit/44230dc9a144b2f0910f7e5518155660fb42aaaa">Delete ff0e4560c3488d76d66b85cdc8bf1d38.jpg</a></td>
+<td>2026-07-21</td>
 </tr>
 <tr>
-<td><a href="https://github.com/tahahasan01/DocExtractor">DocExtractor</a></td>
-<td>Table/LaTeX extraction fidelity upgrades</td>
-<td>🟡 Iterating</td>
+<td><a href="https://github.com/tahahasan01/Frameless_Scraper">Frameless_Scraper</a></td>
+<td><a href="https://github.com/tahahasan01/Frameless_Scraper/commit/1356df199c11692d70569e4542ccdc4d0da6043b">Add Frameless Shower Doors designer scraper</a></td>
+<td>2026-06-09</td>
 </tr>
 <tr>
-<td><a href="https://github.com/tahahasan01/AI_NutriFitPakistan">AI_NutriFitPakistan</a></td>
-<td>Personalization logic and UX tuning</td>
-<td>🟢 Active</td>
+<td><a href="https://github.com/tahahasan01/SORA2.5">SORA2.5</a></td>
+<td><a href="https://github.com/tahahasan01/SORA2.5/commit/6793c25dfb8e029a3bea8863c3538842abe7d3cb">Ensure Vercel installs Python deps for API function</a></td>
+<td>2026-03-13</td>
 </tr>
 </table>
+<!--END_SECTION:commits-->
 
-<sub>Tip: refresh the “Latest Commit Focus” row text whenever you ship a milestone to keep this section current.</sub>
+<sub>Auto-updated daily from my latest pushes.</sub>
 
 ---
 
