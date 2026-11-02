@@ -1,239 +1,190 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Syed%20Taha%20Hasan&fontSize=54&fontColor=FFFFFF&fontAlignY=34&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20Data%20%26%20Automation&descSize=16&descAlignY=55" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:4C1D95,100:0E7490&height=230&section=header&text=Taha%20Hasan&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20AI%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Taha Hasan" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=00D9FF&center=true&vCenter=true&width=860&lines=I+build+production-grade+AI+systems.;LLM+apps%2C+RAG+pipelines%2C+and+automation+at+scale.;Fast%2C+reliable%2C+and+business-aligned+AI+delivery." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&lines=Agentic+AI+systems+%E2%80%A2+RAG+%26+GraphRAG;Multi-LLM+engines+with+automatic+fallback;Voice+cloning+%26+speech+pipelines;From+prototype+to+production." alt="typing" />
 
 <br />
 
-<a href="https://linkedin.com/in/taha-hasan">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:tahahasan279@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<img src="https://img.shields.io/badge/Islamabad,_Pakistan-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-<img src="https://img.shields.io/badge/Open_to_Opportunities-16A34A?style=for-the-badge&logo=briefcase&logoColor=white" alt="Availability" />
+<a href="https://taha-hasan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-taha--hasan.vercel.app-0D1117?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/tahahasan01"><img src="https://img.shields.io/badge/LinkedIn-tahahasan01-0D1117?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjMjJEM0VFIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
+<a href="mailto:tahahasan279@gmail.com"><img src="https://img.shields.io/badge/Email-tahahasan279%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email" /></a>
+
+</div>
+
+<br />
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+### 👋 Hey, I'm Taha
+
+I build AI systems end to end: **LLM agents**, **RAG and GraphRAG pipelines**, and **multi-provider engines** that fall back automatically when a model goes down.
+
+Right now I'm an **AI/ML Engineer at IKONIC**, where I ship production RAG, agentic and LLM-powered features. Before that I was at **Eynvision** and **OGDCL**. I have a BS in **Data Science** from **FAST-NUCES**.
+
+📍 Islamabad, Pakistan · 🌍 open to remote work in any time zone
+
+</td>
+<td width="38%" valign="top">
+
+### ⚡ At a glance
+
+| | |
+|:--|:--|
+| 🧠 | **2+ years** building AI |
+| 🚀 | **11 live** products |
+| ✨ | **17+ AI features** shipped |
+| 🔁 | **3-provider** LLM fallback |
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Stack
+
+<div align="center">
+
+**AI · LLMs · Agents**<br />
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=langgraph&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logo=modelcontextprotocol&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=claude&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjQTc4QkZBIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BT3BlbkFJPC90aXRsZT48cGF0aCBkPSJNMjIuMjgxOSA5LjgyMTFhNS45ODQ3IDUuOTg0NyAwIDAgMC0uNTE1Ny00LjkxMDggNi4wNDYyIDYuMDQ2MiAwIDAgMC02LjUwOTgtMi45QTYuMDY1MSA2LjA2NTEgMCAwIDAgNC45ODA3IDQuMTgxOGE1Ljk4NDcgNS45ODQ3IDAgMCAwLTMuOTk3NyAyLjkgNi4wNDYyIDYuMDQ2MiAwIDAgMCAuNzQyNyA3LjA5NjYgNS45OCA1Ljk4IDAgMCAwIC41MTEgNC45MTA3IDYuMDUxIDYuMDUxIDAgMCAwIDYuNTE0NiAyLjkwMDFBNS45ODQ3IDUuOTg0NyAwIDAgMCAxMy4yNTk5IDI0YTYuMDU1NyA2LjA1NTcgMCAwIDAgNS43NzE4LTQuMjA1OCA1Ljk4OTQgNS45ODk0IDAgMCAwIDMuOTk3Ny0yLjkwMDEgNi4wNTU3IDYuMDU1NyAwIDAgMC0uNzQ3NS03LjA3Mjl6bS05LjAyMiAxMi42MDgxYTQuNDc1NSA0LjQ3NTUgMCAwIDEtMi44NzY0LTEuMDQwOGwuMTQxOS0uMDgwNCA0Ljc3ODMtMi43NTgyYS43OTQ4Ljc5NDggMCAwIDAgLjM5MjctLjY4MTN2LTYuNzM2OWwyLjAyIDEuMTY4NmEuMDcxLjA3MSAwIDAgMSAuMDM4LjA1MnY1LjU4MjZhNC41MDQgNC41MDQgMCAwIDEtNC40OTQ1IDQuNDk0NHptLTkuNjYwNy00LjEyNTRhNC40NzA4IDQuNDcwOCAwIDAgMS0uNTM0Ni0zLjAxMzdsLjE0Mi4wODUyIDQuNzgzIDIuNzU4MmEuNzcxMi43NzEyIDAgMCAwIC43ODA2IDBsNS44NDI4LTMuMzY4NXYyLjMzMjRhLjA4MDQuMDgwNCAwIDAgMS0uMDMzMi4wNjE1TDkuNzQgMTkuOTUwMmE0LjQ5OTIgNC40OTkyIDAgMCAxLTYuMTQwOC0xLjY0NjR6TTIuMzQwOCA3Ljg5NTZhNC40ODUgNC40ODUgMCAwIDEgMi4zNjU1LTEuOTcyOFYxMS42YS43NjY0Ljc2NjQgMCAwIDAgLjM4NzkuNjc2NWw1LjgxNDQgMy4zNTQzLTIuMDIwMSAxLjE2ODVhLjA3NTcuMDc1NyAwIDAgMS0uMDcxIDBsLTQuODMwMy0yLjc4NjVBNC41MDQgNC41MDQgMCAwIDEgMi4zNDA4IDcuODcyem0xNi41OTYzIDMuODU1OEwxMy4xMDM4IDguMzY0IDE1LjExOTIgNy4yYS4wNzU3LjA3NTcgMCAwIDEgLjA3MSAwbDQuODMwMyAyLjc5MTNhNC40OTQ0IDQuNDk0NCAwIDAgMS0uNjc2NSA4LjEwNDJ2LTUuNjc3MmEuNzkuNzkgMCAwIDAtLjQwNy0uNjY3em0yLjAxMDctMy4wMjMxbC0uMTQyLS4wODUyLTQuNzczNS0yLjc4MThhLjc3NTkuNzc1OSAwIDAgMC0uNzg1NCAwTDkuNDA5IDkuMjI5N1Y2Ljg5NzRhLjA2NjIuMDY2MiAwIDAgMSAuMDI4NC0uMDYxNWw0LjgzMDMtMi43ODY2YTQuNDk5MiA0LjQ5OTIgMCAwIDEgNi42ODAyIDQuNjZ6TTguMzA2NSAxMi44NjNsLTIuMDItMS4xNjM4YS4wODA0LjA4MDQgMCAwIDEtLjAzOC0uMDU2N1Y2LjA3NDJhNC40OTkyIDQuNDk5MiAwIDAgMSA3LjM3NTctMy40NTM3bC0uMTQyLjA4MDVMOC43MDQgNS40NTlhLjc5NDguNzk0OCAwIDAgMC0uMzkyNy42ODEzem0xLjA5NzYtMi4zNjU0bDIuNjAyLTEuNDk5OCAyLjYwNjkgMS40OTk4djIuOTk5NGwtMi41OTc0IDEuNDk5Ny0yLjYwNjctMS40OTk3WiIvPjwvc3ZnPg%3D%3D" />
+<img src="https://img.shields.io/badge/Groq-0D1117?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjQTc4QkZBIiAgZmlsbC1ydWxlPSJldmVub2RkIiBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkdyb3E8L3RpdGxlPjxwYXRoIGQ9Ik0xMi4wMzYgMmMtMy44NTMtLjAzNS03IDMtNy4wMzYgNi43ODEtLjAzNSAzLjc4MiAzLjA1NSA2Ljg3MiA2LjkwOCA2LjkwN2gyLjQydi0yLjU2NmgtMi4yOTJjLTIuNDA3LjAyOC00LjM4LTEuODY2LTQuNDA4LTQuMjMtLjAyOS0yLjM2MiAxLjkwMS00LjI5OCA0LjMwOC00LjMyNmguMWMyLjQwNyAwIDQuMzU4IDEuOTE1IDQuMzY1IDQuMjc4djYuMzA1YzAgMi4zNDItMS45NDQgNC4yNS00LjMyMyA0LjI3OWE0LjM3NSA0LjM3NSAwIDAxLTMuMDMzLTEuMjUybC0xLjg1MSAxLjgxOEE3IDcgMCAwMDEyLjAyOSAyMmguMDkyYzMuODAzLS4wNTYgNi44NTgtMy4wODMgNi44NzktNi44MTZ2LTYuNUMxOC45MDcgNC45NjMgMTUuODE3IDIgMTIuMDM2IDJ6Ij48L3BhdGg%2BPC9zdmc%2B" />
+<img src="https://img.shields.io/badge/Hugging_Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=A78BFA" />
+
+**Speech & Voice**<br />
+<img src="https://img.shields.io/badge/Whisper_%C2%B7_WhisperX-0D1117?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjMjJEM0VFIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BT3BlbkFJPC90aXRsZT48cGF0aCBkPSJNMjIuMjgxOSA5LjgyMTFhNS45ODQ3IDUuOTg0NyAwIDAgMC0uNTE1Ny00LjkxMDggNi4wNDYyIDYuMDQ2MiAwIDAgMC02LjUwOTgtMi45QTYuMDY1MSA2LjA2NTEgMCAwIDAgNC45ODA3IDQuMTgxOGE1Ljk4NDcgNS45ODQ3IDAgMCAwLTMuOTk3NyAyLjkgNi4wNDYyIDYuMDQ2MiAwIDAgMCAuNzQyNyA3LjA5NjYgNS45OCA1Ljk4IDAgMCAwIC41MTEgNC45MTA3IDYuMDUxIDYuMDUxIDAgMCAwIDYuNTE0NiAyLjkwMDFBNS45ODQ3IDUuOTg0NyAwIDAgMCAxMy4yNTk5IDI0YTYuMDU1NyA2LjA1NTcgMCAwIDAgNS43NzE4LTQuMjA1OCA1Ljk4OTQgNS45ODk0IDAgMCAwIDMuOTk3Ny0yLjkwMDEgNi4wNTU3IDYuMDU1NyAwIDAgMC0uNzQ3NS03LjA3Mjl6bS05LjAyMiAxMi42MDgxYTQuNDc1NSA0LjQ3NTUgMCAwIDEtMi44NzY0LTEuMDQwOGwuMTQxOS0uMDgwNCA0Ljc3ODMtMi43NTgyYS43OTQ4Ljc5NDggMCAwIDAgLjM5MjctLjY4MTN2LTYuNzM2OWwyLjAyIDEuMTY4NmEuMDcxLjA3MSAwIDAgMSAuMDM4LjA1MnY1LjU4MjZhNC41MDQgNC41MDQgMCAwIDEtNC40OTQ1IDQuNDk0NHptLTkuNjYwNy00LjEyNTRhNC40NzA4IDQuNDcwOCAwIDAgMS0uNTM0Ni0zLjAxMzdsLjE0Mi4wODUyIDQuNzgzIDIuNzU4MmEuNzcxMi43NzEyIDAgMCAwIC43ODA2IDBsNS44NDI4LTMuMzY4NXYyLjMzMjRhLjA4MDQuMDgwNCAwIDAgMS0uMDMzMi4wNjE1TDkuNzQgMTkuOTUwMmE0LjQ5OTIgNC40OTkyIDAgMCAxLTYuMTQwOC0xLjY0NjR6TTIuMzQwOCA3Ljg5NTZhNC40ODUgNC40ODUgMCAwIDEgMi4zNjU1LTEuOTcyOFYxMS42YS43NjY0Ljc2NjQgMCAwIDAgLjM4NzkuNjc2NWw1LjgxNDQgMy4zNTQzLTIuMDIwMSAxLjE2ODVhLjA3NTcuMDc1NyAwIDAgMS0uMDcxIDBsLTQuODMwMy0yLjc4NjVBNC41MDQgNC41MDQgMCAwIDEgMi4zNDA4IDcuODcyem0xNi41OTYzIDMuODU1OEwxMy4xMDM4IDguMzY0IDE1LjExOTIgNy4yYS4wNzU3LjA3NTcgMCAwIDEgLjA3MSAwbDQuODMwMyAyLjc5MTNhNC40OTQ0IDQuNDk0NCAwIDAgMS0uNjc2NSA4LjEwNDJ2LTUuNjc3MmEuNzkuNzkgMCAwIDAtLjQwNy0uNjY3em0yLjAxMDctMy4wMjMxbC0uMTQyLS4wODUyLTQuNzczNS0yLjc4MThhLjc3NTkuNzc1OSAwIDAgMC0uNzg1NCAwTDkuNDA5IDkuMjI5N1Y2Ljg5NzRhLjA2NjIuMDY2MiAwIDAgMSAuMDI4NC0uMDYxNWw0LjgzMDMtMi43ODY2YTQuNDk5MiA0LjQ5OTIgMCAwIDEgNi42ODAyIDQuNjZ6TTguMzA2NSAxMi44NjNsLTIuMDItMS4xNjM4YS4wODA0LjA4MDQgMCAwIDEtLjAzOC0uMDU2N1Y2LjA3NDJhNC40OTkyIDQuNDk5MiAwIDAgMSA3LjM3NTctMy40NTM3bC0uMTQyLjA4MDVMOC43MDQgNS40NTlhLjc5NDguNzk0OCAwIDAgMC0uMzkyNy42ODEzem0xLjA5NzYtMi4zNjU0bDIuNjAyLTEuNDk5OCAyLjYwNjkgMS40OTk4djIuOTk5NGwtMi41OTc0IDEuNDk5Ny0yLjYwNjctMS40OTk3WiIvPjwvc3ZnPg%3D%3D" />
+<img src="https://img.shields.io/badge/TTS-Coqui_XTTS_v2-0D1117?style=for-the-badge&labelColor=0E7490" />
+<img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=22D3EE" />
+
+**RAG & Data**<br />
+<img src="https://img.shields.io/badge/Neo4j_GraphRAG-0D1117?style=for-the-badge&logo=neo4j&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Vector_DBs-Pinecone_%C2%B7_ChromaDB_%C2%B7_Weaviate_%C2%B7_FAISS-0D1117?style=for-the-badge&labelColor=4C1D95" />
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=tahahasan01&label=Profile%20views&color=0e75b6&style=flat-square" alt="views" />
-<img src="https://img.shields.io/github/followers/tahahasan01?logo=github&style=flat-square&color=0e75b6&labelColor=0d1117" alt="followers" />
-<img src="https://img.shields.io/github/stars/tahahasan01?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=ffb000&labelColor=0d1117&label=total%20stars" alt="stars" />
+<img src="https://skillicons.dev/icons?i=py,ts,fastapi,django,flask,nestjs,nodejs,nextjs,react,threejs,tailwind,postgres,mongodb,redis,mysql&perline=15" alt="core stack" /><br />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,docker,githubactions,aws,gcp,azure,linux,nginx,terraform,ansible,vercel,git&perline=15" alt="ml and devops" />
 
 </div>
 
 ---
 
-## About
-
-I design and ship **production AI systems** that work beyond demos — from LLM application architecture to retrieval quality, model evaluation, deployment, and continuous improvement loops.
-
-My focus is the hard middle between "it works on my machine" and "it is reliable for real users":
-- robust **RAG / GraphRAG** pipelines with grounded outputs,
-- measurable quality via eval harnesses and regression checks,
-- cost/latency-aware inference orchestration,
-- and automation-first workflows that reduce manual operations.
-
-I work across the full lifecycle: problem framing, data pipelines, model/system design, APIs, deployment, monitoring, and iteration.
-
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
-<h4>LLM, RAG & GraphRAG</h4>
-<sub>Retriever design, reranking, citation grounding, knowledge graphs, agentic workflows</sub>
-</td>
-<td width="33%" valign="top" align="center">
-<h4>Applied ML Engineering</h4>
-<sub>NLP, forecasting, CV, training/evaluation pipelines, model serving</sub>
-</td>
-<td width="33%" valign="top" align="center">
-<h4>Automation & Platform</h4>
-<sub>Workflow automation, CI/CD, data pipelines, APIs, containerized delivery</sub>
-</td>
-</tr>
-</table>
-
----
-
-## Featured Work
+## 🚀 Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/tahahasan01/RepoIQ"><strong>RepoIQ</strong></a>
+### [WorkPulse HCM](https://hcm.owesome.work)
+AI-powered HR platform. A multi-provider engine (Gemini → Groq → OpenAI) with automatic fallback runs **17+ AI features**, including a RAG HR assistant, AI recruitment, and performance and learning features.
 
-**AI-powered repository analysis** that surfaces security risks, code quality issues, and architectural drift across a codebase.
-
-`Python` `LLM` `Static Analysis` `FastAPI`
+`FastAPI` `Django` `RAG` `Docker` `CI/CD`
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/tahahasan01/RAGInsights"><strong>RAGInsights</strong></a>
+### [Site Generator](https://websitebuilder-ochre.vercel.app)
+Agent pipeline that researches and builds client websites on its own, with a human review gate before launch. **25+ sites shipped** at about **$1.39 per site**, with a 69% cache-hit rate.
 
-**Natural-language BI over mixed data.** Queries structured tables and unstructured documents through a single retrieval layer.
-
-`RAG` `LangChain` `SQL` `Vector DB`
+`Next.js` `LLM Agents` `Job Queue` `Vercel API`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/tahahasan01/PakLaw_RAG"><strong>PakLaw_RAG</strong></a>
+### [Hakem.ai](https://hakem.ai)
+Saudi insurance comparison platform. It processes policy PDFs and uses RAG to analyze and compare policies.
 
-**Legal assistant for Pakistani law** with verifiable citations and local inference.
-
-`Ollama` `Chroma` `RAG` `Python`
+`LangChain` `FastAPI` `MongoDB` `Pinecone` `GPT-4`
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/tahahasan01/ResumeFlow"><strong>ResumeFlow</strong></a>
+### [VisPro Answers](https://visproanswers.com)
+Subscription chatbot for veterans' benefits and VA claims, with cited answers, voice input and document Q&A. HIPAA-compliant.
 
-**Full-stack resume parser** with ATS scoring and document intelligence for high-volume screening.
-
-`NLP` `React` `FastAPI` `Document AI`
+`RAG` `Speech-to-Text` `Subscriptions`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/tahahasan01/DocExtractor"><strong>DocExtractor</strong></a>
+### [HouseholdProfits · Velocity AI](https://householdprofits.com)
+Multi-agent FastAPI "brain" for household financial planning, with tiered LLM routing and a Laravel integration.
 
-**PDF-to-structure engine** preserving markdown, LaTeX, tables, and images for RAG-ready ingestion.
-
-`LlamaParse` `Python` `OCR` `Parsing`
+`FastAPI` `LangChain` `Pydantic v2` `ChromaDB`
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/tahahasan01/AI_NutriFitPakistan"><strong>AI_NutriFitPakistan</strong></a>
+### Voice Cloning Pipeline <sub>🔒 private</sub>
+Nine-stage automated pipeline that turns oral-history interviews into a voice model for each speaker.
 
-**Personalized health platform** with localized recommendations and progress tracking.
-
-`ML` `Next.js` `MongoDB` `LLM`
+`WhisperX` `Llama 3.1` `Coqui XTTS v2` `Azure`
 
 </td>
 </tr>
 </table>
 
----
+<details>
+<summary><b>More shipped products →</b></summary>
+<br />
 
-## Tech Stack
+| Product | What it is | Built with |
+|:--|:--|:--|
+| [Verve AI](https://verve-alpha-three.vercel.app) | Real-time interview copilot that streams drafted answers | Next.js, streaming LLMs, real-time audio |
+| [Addy](https://claudeproject-hazel.vercel.app) | Multi-agent AI advisor console with Notion and human-in-the-loop review | Next.js, LLM agents, Notion API |
+| [G.O.A.T CRM](https://crm-two-zeta-33.vercel.app) | Sales CRM for an elevator and escalator company, with a 3D login and engineering calculators | React, TypeScript, Three.js, FastAPI |
+| [Osprix](https://osprix.com) | Aviation parts e-commerce storefront | Next.js, search & faceting, CMS |
+| [gimme](https://gimme3d.vercel.app) | Scroll-driven 3D food ordering experience | Three.js, R3F, GSAP |
+| [AdMotion](https://fyp-iota-nine.vercel.app) | Advertising platform for screens mounted on car roofs, with AI targeting and GPS tracking (final-year project) | React, FastAPI, Python |
 
-<table>
-<tr>
-<td valign="middle"><strong>Languages</strong></td>
-<td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td valign="middle"><strong>AI / ML</strong></td>
-<td>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td valign="middle"><strong>LLM / Agentic / Retrieval</strong></td>
-<td>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-0A0A0A?style=flat-square&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/LlamaIndex-6C63FF?style=flat-square&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/Chroma-2E74FF?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td valign="middle"><strong>Backend & APIs</strong></td>
-<td>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td valign="middle"><strong>Frontend</strong></td>
-<td>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td valign="middle"><strong>Data</strong></td>
-<td>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td valign="middle"><strong>Automation / DevOps</strong></td>
-<td>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-## Experience
+## 💼 Experience
 
-**AI Engineer** · 2+ years  
-> Building and shipping end-to-end AI products: LLM apps, RAG/GraphRAG pipelines, ML models, evaluation frameworks, and production APIs with reliability, observability, and cost control.
+| | Role | Company | When |
+|:--:|:--|:--|:--|
+| 🟣 | **AI/ML Engineer** | IKONIC · Islamabad | Jan 2026 – Present |
+| ⚪ | **Full Stack AI Engineer** | Eynvision · Islamabad | Sep 2025 – Jan 2026 |
+| ⚪ | **Data Engineer (Intern)** | OGDCL · Islamabad | Jun – Sep 2025 |
+| ⚪ | **Market Research Analyst** | Silverlight Research Group · London (remote) | Jun – Jul 2025 |
 
-**Data Science Intern** · Multiconsult — Remote, Norway  
-> Built predictive models for solar energy forecasting and site-efficiency analysis, helping identify high-yield locations for deployment.
-
-**Data Analysis Intern** · PepsiCo  
-> Supported revenue forecasting and customer retention analysis across multi-regional sales data.
-
-**Data Engineer Intern** · OGDCL  
-> Built SQL and React-based dashboards and optimized data workflows to shorten reporting cycles for decision-makers.
+🎓 **BS Data Science**, FAST-NUCES, 2021 – 2025
 
 ---
 
-## GitHub Activity
+## 📊 GitHub
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tahahasan01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=E6EDF3" alt="stats" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahahasan01&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="top-langs" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahahasan01&theme=github_dark" alt="profile details" />
 
-<img width="91%" src="https://streak-stats.demolab.com?user=tahahasan01&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FFB000&currStreakLabel=00D9FF" alt="streak" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tahahasan01&theme=github_dark" alt="stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tahahasan01&theme=github_dark" alt="most committed languages" />
 
-<img width="91%" src="https://github-readme-activity-graph.vercel.app/graph?username=tahahasan01&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="activity-graph" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=tahahasan01&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="trophies" />
+<img width="85%" src="https://streak-stats.demolab.com?user=tahahasan01&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" alt="streak" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tahahasan01/tahahasan01/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tahahasan01/tahahasan01/output/github-snake.svg" />
-  <img width="91%" alt="contribution snake" src="https://raw.githubusercontent.com/tahahasan01/tahahasan01/output/github-snake-dark.svg" />
+  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/tahahasan01/tahahasan01/output/github-snake-dark.svg" />
 </picture>
 
 </div>
 
-### Recent GitHub Commits
+### 🔨 Latest commits
 
 <!--START_SECTION:commits-->
 <table>
@@ -275,26 +226,20 @@ I work across the full lifecycle: problem framing, data pipelines, model/system 
 </table>
 <!--END_SECTION:commits-->
 
-<sub>Auto-updated daily from my latest pushes.</sub>
+<sub>Updated automatically every day.</sub>
 
 ---
 
 <div align="center">
 
-## Let's build something
+**Building something with LLMs, agents or voice? Let's talk.**
 
-Open to AI engineering roles, consulting, and collaborations on LLM/ML systems and automation workflows.
+<a href="https://taha-hasan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/tahahasan01"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjMjJEM0VFIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
+<a href="mailto:tahahasan279@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email" /></a>
 
-<a href="https://linkedin.com/in/taha-hasan">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:tahahasan279@gmail.com">
-  <img src="https://img.shields.io/badge/tahahasan279@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/tahahasan01">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=tahahasan01&label=profile%20views&color=4C1D95&style=flat-square" alt="views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,55:4C1D95,100:0D1117&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
