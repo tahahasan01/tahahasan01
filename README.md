@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:4C1D95,100:0E7490&height=230&section=header&text=Taha%20Hasan&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20AI%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Taha Hasan" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:4C1D95,100:0E7490&height=230&section=header&text=Taha%20Hasan&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20AI%20Engineer%20%C2%B7%202%2B%20Years%20Experience&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Taha Hasan" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&lines=Agentic+AI+systems+%E2%80%A2+RAG+%26+GraphRAG;Multi-LLM+engines+with+automatic+fallback;Voice+cloning+%26+speech+pipelines;From+prototype+to+production." alt="typing" />
 
@@ -20,7 +20,7 @@
 
 ### 👋 Hey, I'm Taha
 
-I build AI systems end to end: **LLM agents**, **RAG and GraphRAG pipelines**, and **multi-provider engines** that fall back automatically when a model goes down.
+I'm a Full Stack AI Engineer with **2+ years of experience** building AI systems end to end: **LLM agents**, **RAG and GraphRAG pipelines**, and **multi-provider engines** that fall back automatically when a model goes down.
 
 Right now I'm an **AI/ML Engineer at IKONIC**, where I ship production RAG, agentic and LLM-powered features. Before that I was at **Eynvision** and **OGDCL**. I have a BS in **Data Science** from **FAST-NUCES**.
 
@@ -152,7 +152,7 @@ Nine-stage automated pipeline that turns oral-history interviews into a voice mo
 
 ---
 
-## 💼 Experience
+## 💼 Experience <sub>· 2+ years</sub>
 
 | | Role | Company | When |
 |:--:|:--|:--|:--|
@@ -163,18 +163,26 @@ Nine-stage automated pipeline that turns oral-history interviews into a voice mo
 
 🎓 **BS Data Science**, FAST-NUCES, 2021 – 2025
 
+<details>
+<summary><b>Leadership & certifications →</b></summary>
+<br />
+
+- **FAST Data Science Society**: Creative Lead (2023–24), Vice Head Media (2022–23), Marketing Team (2021–22)
+- **NaSCon**, FAST-NUCES flagship event: Media Officer (2022–23)
+- **DataCamp**: Exploratory Data Analysis in Python · Data Visualization with Matplotlib · Data Manipulation with pandas · Joining Data with pandas · Functions in Python · Intro to Python
+
+</details>
+
 ---
 
 ## 📊 GitHub
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahahasan01&theme=github_dark" alt="profile details" />
+<img width="100%" src="https://raw.githubusercontent.com/tahahasan01/tahahasan01/output/stats.svg" alt="GitHub activity: total contributions including private work" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tahahasan01&theme=github_dark" alt="stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tahahasan01&theme=github_dark" alt="most committed languages" />
-
-<img width="85%" src="https://streak-stats.demolab.com?user=tahahasan01&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" alt="streak" />
+<img height="180" src="https://streak-stats.demolab.com?user=tahahasan01&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D&border_radius=12" alt="streak" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tahahasan01&theme=github_dark" alt="most committed languages" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tahahasan01/tahahasan01/output/github-snake-dark.svg" />
