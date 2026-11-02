@@ -225,6 +225,12 @@ I work across the full lifecycle: problem framing, data pipelines, model/system 
 
 <img src="https://github-profile-trophy.vercel.app/?username=tahahasan01&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="trophies" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tahahasan01/tahahasan01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tahahasan01/tahahasan01/output/github-snake.svg" />
+  <img width="91%" alt="contribution snake" src="https://raw.githubusercontent.com/tahahasan01/tahahasan01/output/github-snake-dark.svg" />
+</picture>
+
 </div>
 
 ### Recent GitHub Commits
