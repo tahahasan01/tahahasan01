@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="306" viewBox="0 0 840 306">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <linearGradient id="b" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#4C1D95"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+</defs>
+<style>
+  text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; }
+  .big { font-size: 64px; font-weight: 800; fill: url(#g); }
+  .num { font-size: 26px; font-weight: 700; fill: #F0F6FC; }
+  .lbl, .sub { font-size: 13px; fill: #8B949E; }
+  .ttl { font-size: 15px; font-weight: 600; fill: #C9D1D9; letter-spacing: .5px; }
+  .mon { font-size: 11px; fill: #6E7681; text-anchor: middle; }
+  .bar { fill: url(#b); transform-box: fill-box; transform-origin: bottom; animation: grow .8s ease-out both; }
+  @keyframes grow { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+</style>
+<rect x="1" y="1" width="838" height="304" rx="12" fill="#0D1117" stroke="#30363D"/>
+<text class="ttl" x="40" y="42">GITHUB ACTIVITY</text>
+<text class="sub" x="800" y="42" text-anchor="end">since Apr 2023</text>
+<text class="big" x="36" y="128">1,891</text>
+<text class="lbl" x="40" y="154">total contributions</text>
+<g transform="translate(330,78)"><text class="num" y="0">734</text><text class="lbl" y="22">Last 12 months</text></g><g transform="translate(580,78)"><text class="num" y="0">1,430</text><text class="lbl" y="22">Public commits</text></g><g transform="translate(330,140)"><text class="num" y="0">411</text><text class="lbl" y="22">Private contributions</text></g><g transform="translate(580,140)"><text class="num" y="0">32</text><text class="lbl" y="22">Public repos</text></g>
+<line x1="40" x2="800" y1="190" y2="190" stroke="#21262D"/>
+<rect class="bar" style="animation-delay:0ms" x="42" y="265" width="52" height="3" rx="4"/><text class="mon" x="68.0" y="284">Dec</text><title>1 contributions in Dec</title><rect class="bar" style="animation-delay:60ms" x="106" y="255" width="52" height="13" rx="4"/><text class="mon" x="132.0" y="284">Jan</text><title>38 contributions in Jan</title><rect class="bar" style="animation-delay:120ms" x="170" y="260" width="52" height="8" rx="4"/><text class="mon" x="196.0" y="284">Feb</text><title>25 contributions in Feb</title><rect class="bar" style="animation-delay:180ms" x="234" y="258" width="52" height="10" rx="4"/><text class="mon" x="260.0" y="284">Mar</text><title>29 contributions in Mar</title><rect class="bar" style="animation-delay:240ms" x="298" y="265" width="52" height="3" rx="4"/><text class="mon" x="324.0" y="284">Apr</text><title>0 contributions in Apr</title><rect class="bar" style="animation-delay:300ms" x="362" y="265" width="52" height="3" rx="4"/><text class="mon" x="388.0" y="284">May</text><title>0 contributions in May</title><rect class="bar" style="animation-delay:360ms" x="426" y="265" width="52" height="3" rx="4"/><text class="mon" x="452.0" y="284">Jun</text><title>6 contributions in Jun</title><rect class="bar" style="animation-delay:420ms" x="490" y="221" width="52" height="47" rx="4"/><text class="mon" x="516.0" y="284">Jul</text><title>138 contributions in Jul</title><rect class="bar" style="animation-delay:480ms" x="554" y="234" width="52" height="34" rx="4"/><text class="mon" x="580.0" y="284">Aug</text><title>101 contributions in Aug</title><rect class="bar" style="animation-delay:540ms" x="618" y="204" width="52" height="64" rx="4"/><text class="mon" x="644.0" y="284">Sep</text><title>189 contributions in Sep</title><rect class="bar" style="animation-delay:600ms" x="682" y="213" width="52" height="55" rx="4"/><text class="mon" x="708.0" y="284">Oct</text><title>163 contributions in Oct</title><rect class="bar" style="animation-delay:660ms" x="746" y="265" width="52" height="3" rx="4"/><text class="mon" x="772.0" y="284">Nov</text><title>7 contributions in Nov</title>
+</svg>
